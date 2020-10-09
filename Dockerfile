@@ -1,1 +1,1 @@
-FROM registry.opensource.zalan.do/acid/spilo-10:1.5-p5
+FROM registry.opensource.zalan.do/acid/spilo-12:1.6-p5
